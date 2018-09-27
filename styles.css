@@ -1,0 +1,21 @@
+body {
+  background-color: 9aa5b0;
+  color: rgb(255,255,255);
+}
+
+.navbar-light .navbar-brand {
+  width: 200px;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
+  color: rgba(241,238,238,0.9);
+  font-size: 40px;
+}
+
+#navcol-1 {
+  font-size: 100px;
+  font-family: Montserrat, sans-serif;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
